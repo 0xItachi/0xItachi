@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Thakur</h1>
 <h3 align="center">A passionate frontend developer from India, Bullish on Blockchain,</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Pj0ZUr1-D_8AAAAM/one-piece-luffy.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xitachi&label=Profile%20views&color=0e75b6&style=flat" alt="0xitachi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@sahil__eth" target="blank"><img src="https://img.shields.io/twitter/follow/@sahil__eth?logo=twitter&style=for-the-badge" alt="@sahil__eth" /></a> </p>
 
 - 🔭 I’m currently working on **HTML, CSS, Javascript**
 
